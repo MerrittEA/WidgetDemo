@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "e135df595649dbe7b982b1a78e3d4aa9"
+build_time: [1512418206, 491076000]
+inputs:
+  "/Users/potpie/Downloads/cf_demo_widget-master/QuotesNetworking/Quote.swift": [1478136670, 0]
+  "/Users/potpie/Downloads/cf_demo_widget-master/QuotesNetworking/Networking.swift": [1512408330, 0]

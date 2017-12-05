@@ -1,0 +1,10 @@
+framework module QuotesNetworking {
+  umbrella header "QuotesNetworking.h"
+
+  export *
+  module * { export * }
+}
+
+module QuotesNetworking.__Swift {
+    exclude header "QuotesNetworking-Swift.h"
+}

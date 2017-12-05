@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "e3f81cc425d84e1682100ea1f2dd56e2"
+build_time: [1512418205, 550899000]
+inputs:
+  "/Users/potpie/Downloads/cf_demo_widget-master/QuotesWidget/TodayViewController.swift": [1512416586, 0]

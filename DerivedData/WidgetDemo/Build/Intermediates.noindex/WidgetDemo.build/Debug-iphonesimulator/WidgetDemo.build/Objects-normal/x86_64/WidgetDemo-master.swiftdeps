@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "d302ac6173c43e9dec39680890cbada0"
+build_time: [1512418283, 985820000]
+inputs:
+  "/Users/potpie/Downloads/cf_demo_widget-master/WidgetDemo/QuoteViewController.swift": [1512418119, 0]
+  "/Users/potpie/Downloads/cf_demo_widget-master/WidgetDemo/AppDelegate.swift": [1478136670, 0]

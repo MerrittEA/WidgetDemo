@@ -1,0 +1,11 @@
+framework module QuotesNetworking {
+  umbrella header "QuotesNetworking.h"
+
+  export *
+  module * { export * }
+}
+
+module QuotesNetworking.Swift {
+    header "QuotesNetworking-Swift.h"
+    requires objc
+}

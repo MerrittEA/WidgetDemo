@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/potpie/Downloads/cf_demo_widget-master/DerivedData/WidgetDemo/Build/Products/Debug-iphonesimulator/QuotesNetworking.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "QuotesNetworking-Swift.h",
+          'external-contents': "/Users/potpie/Downloads/cf_demo_widget-master/DerivedData/WidgetDemo/Build/Products/Debug-iphonesimulator/QuotesNetworking.framework/Headers/QuotesNetworking-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "QuotesNetworking.h",
+          'external-contents': "/Users/potpie/Downloads/cf_demo_widget-master/QuotesNetworking/QuotesNetworking.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/potpie/Downloads/cf_demo_widget-master/DerivedData/WidgetDemo/Build/Products/Debug-iphonesimulator/QuotesNetworking.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/potpie/Downloads/cf_demo_widget-master/DerivedData/WidgetDemo/Build/Intermediates.noindex/WidgetDemo.build/Debug-iphonesimulator/QuotesNetworking.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
